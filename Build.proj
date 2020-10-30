@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.Build.Traversal">
+
+  <PropertyGroup>
+    <RestoreUseStaticGraphEvaluation>true</RestoreUseStaticGraphEvaluation>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="*/System.Security.Cryptography.Pkcs.csproj" />
+    <ProjectReference Include="*/System.Security.Cryptography.Cng.csproj" />
+  </ItemGroup>
+
+</Project>
