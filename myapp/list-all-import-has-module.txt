@@ -1,0 +1,2 @@
+example.org/somelibrary/numbers ---- example.org/somelibrary v1.0.0 => ../somelibrary
+example.org/myapp ---- example.org/myapp

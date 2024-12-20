@@ -1,0 +1,4 @@
+golang.org/x/crypto/blowfish ---- golang.org/x/crypto v0.23.0
+golang.org/x/crypto/bcrypt ---- golang.org/x/crypto v0.23.0
+example.org/somelibrary/cryptonumbers ---- example.org/somelibrary v1.0.0 => ../somelibrary
+example.org/myappcrypto ---- example.org/myappcrypto
